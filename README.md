@@ -1,5 +1,5 @@
 ```sh <p style="text-align: center;">
-Everything we do is based on agreements we have made - agreements with
+Everything we do is based on agreements we have made agreements with
 ourselves,
 with other people,
 and with life.
